@@ -1,0 +1,8 @@
+Package: com.aidanWinter.firsttheme
+Name: First Theme
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme that changes the loading gif
+Maintainer: aidanWinter
+Section: Themes (SpringBoard)

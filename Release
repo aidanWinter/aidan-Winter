@@ -1,0 +1,8 @@
+Origin: A Winter Public Repository
+Label: aidanWinter Public Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A Winter Public Repo
